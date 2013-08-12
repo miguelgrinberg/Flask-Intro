@@ -1,0 +1,9 @@
+Flask==0.10.1
+Flask-Bootstrap==2.3.2.2
+Flask-WTF==0.9.1
+Jinja2==2.7.1
+MarkupSafe==0.18
+WTForms==1.0.4
+Werkzeug==0.9.4
+itsdangerous==0.23
+wsgiref==0.1.2
