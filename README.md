@@ -1,7 +1,7 @@
 Flask-Intro
 ===========
 
-Sample code from my "Introduction to Flask" presentation.
+Sample code from my "Introduction to Flask" presentation. The slides for this presentation are available at [https://speakerdeck.com/miguelgrinberg/introduction-to-flask](https://speakerdeck.com/miguelgrinberg/introduction-to-flask).
 
 Requirements
 ------------
